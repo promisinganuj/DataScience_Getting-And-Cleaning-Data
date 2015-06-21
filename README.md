@@ -1,5 +1,5 @@
 ## Tasks Involved
-There are five primary steps involved in tidying up the given dataset:
+There are five primary steps involved for tidying up this particular given dataset:
 
 1. Merges the training and the test sets to create one data set.
 
